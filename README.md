@@ -519,7 +519,7 @@ The following documentation pages are guides about Git concepts.
 gitcore-tutorial[7]
 A Git core tutorial for developers
 
-gitcredentials[7]
+gitcredentials[7] 
 Providing usernames and passwords to Git
 
 gitcvs-migration[7]
