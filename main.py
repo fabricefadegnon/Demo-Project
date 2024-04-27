@@ -34,6 +34,8 @@ print(formatter.format(
     "Maybe a poem",
     "Or a song about fear"
 ))
+# More complicated Formating of string
+
 days = "Mon\nTue\nWed\nThu\nFri\nSat\nSun"
 months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 print("Here are the days: ", days)
