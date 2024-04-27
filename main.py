@@ -34,7 +34,7 @@ print(formatter.format(
     "Maybe a poem",
     "Or a song about fear"
 ))
-days = "Mon Tue Wed Thu Fri Sat Sun"
+days = "Mon\nTue\nWed\nThu\nFri\nSat\nSun"
 months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 print("Here are the days: ", days)
 print("Here are the months: ", months)
