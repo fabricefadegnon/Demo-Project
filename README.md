@@ -670,4 +670,4 @@ indicates the head of the current branch.
 a valid tag name (i.e. a refs/tags/<tag> reference).
 
 <head>
-a valid head name (i.e. a refs/heads/<head> reference).
+ a valid head name (i.e. a refs/heads/<head> reference).
