@@ -286,5 +286,3 @@ def validate_zip_code(zip_code):
 
 
 
-
-
